@@ -1,0 +1,12 @@
+{
+  "owner": "lukasbach",
+  "repo": "test-repo",
+  "tree": [
+    {
+      "path": "dummy.txt",
+      "mode": "100644",
+      "type": "blob",
+      "content": "me smol"
+    }
+  ]
+}

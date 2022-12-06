@@ -1,0 +1,9 @@
+{
+  "owner": "lukasbach",
+  "repo": "test-repo",
+  "message": "overwritten commit",
+  "parents": [
+    "6cd2a1d4e4f1259baeb3d744e9b37c0c7ba1b273"
+  ],
+  "tree": "574c51a786971b89f2f8d63327d545577c950d78"
+}
